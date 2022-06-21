@@ -1,4 +1,4 @@
-# PySpark-Transformation-Analysis-on-Amazon-Tweets
+# PySpark Transformation Analysis on Amazon Tweets
 
 
 ## DATA DESCRIPTION
